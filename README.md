@@ -36,7 +36,7 @@ Bu proje, kullanıcıların araç kataloğunda araç markası ve modeli seçerek
 - Araç markası seçimi ile arama yapma.
 - Araç modelini yazarak filtreleme.
 - Yakıt türü ve yılına göre filtreleme.
-- Araçların ayrıntılı bilgilerine erişim.# car-rental-project
+- Araçların ayrıntılı bilgilerine erişim.
 
 
 ![](https://github.com/Rasime-Dumlupunar/car-rental-project/blob/main/car-rental-project.gif)
