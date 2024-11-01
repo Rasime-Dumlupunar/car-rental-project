@@ -39,4 +39,4 @@ Bu proje, kullanıcıların araç kataloğunda araç markası ve modeli seçerek
 - Araçların ayrıntılı bilgilerine erişim.# car-rental-project
 
 
-![]( )
+![](https://github.com/Rasime-Dumlupunar/car-rental-project/blob/main/car-rental-project.gif)
